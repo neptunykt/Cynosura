@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cynosura.CliTool": {
+      "commandName": "Project",
+      "commandLineArgs": "info -vvvv" 
+    }
+  }
+}

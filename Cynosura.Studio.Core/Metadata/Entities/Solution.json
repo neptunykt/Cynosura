@@ -1,0 +1,36 @@
+{
+  "id": "30572f84-4e94-4976-b33e-bbb8d53c8635",
+  "name": "Solution",
+  "pluralName": "Solutions",
+  "displayName": "Solution",
+  "pluralDisplayName": "Solutions",
+  "isAbstract": false,
+  "baseEntityId": "2819f292-9f78-4e87-88ed-274c4133982a",
+  "fields": [
+    {
+      "id": "fa4649b7-dab2-4b00-8458-f25df65120f1",
+      "name": "Name",
+      "displayName": "Name",
+      "type": "String",
+      "size": 50,
+      "entityId": null,
+      "isRequired": true,
+      "enumId": null,
+      "isSystem": false,
+      "properties": {}
+    },
+    {
+      "id": "f160a247-45da-4019-bb45-8191d1eeb8a3",
+      "name": "Path",
+      "displayName": "Path",
+      "type": "String",
+      "size": 200,
+      "entityId": null,
+      "isRequired": true,
+      "enumId": null,
+      "isSystem": false,
+      "properties": {}
+    }
+  ],
+  "properties": {}
+}

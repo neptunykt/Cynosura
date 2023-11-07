@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option csharp_namespace = "Cynosura.Studio.Web.Protos.Roles";
+
+message RoleFilter {
+    oneof nameOneOf {
+        string name = 10;
+    }
+    oneof displayNameOneOf {
+        string displayName = 40;
+    }
+}
